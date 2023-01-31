@@ -1,8 +1,8 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Leonardo Chagas</h1>
 
-- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas 
+- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas 
 
-- 🔭 No momento estou trabalhando de Estagiário de TI na [Casa Di Conti](https://www.casadiconti.com.br/)
+- 🔭 No momento estou trabalhando de Auxiliar de Sistemas na [Casa Di Conti](https://www.casadiconti.com.br/)
 
 - 📫 Como entrar em contato comigo **leochagas09@hotmail.com**
 
