@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas 
 
-- 🔭 No momento estou trabalhando de Auxiliar de Sistemas na [Casa Di Conti](https://www.casadiconti.com.br/)
+- 🔭 No momento estou trabalhando de Analista de Sistemas na [Casa Di Conti](https://www.casadiconti.com.br/)
 
 - 📫 Como entrar em contato comigo **leochagas09@hotmail.com**
 
